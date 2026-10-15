@@ -66,7 +66,7 @@ export default function Hero() {
         </div>
 
         <div className="hero__stats">
-          <div className="hstat"><span className="hstat__v">4</span><span className="hstat__k">段实习经历</span></div>
+          <div className="hstat"><span className="hstat__v">5</span><span className="hstat__k">段实习经历</span></div>
           <div className="hstat"><span className="hstat__v">7</span><span className="hstat__k">科研 / 项目</span></div>
           <div className="hstat"><span className="hstat__v">30+</span><span className="hstat__k">款游戏沉淀</span></div>
           <div className="hstat"><span className="hstat__v">20+</span><span className="hstat__k">荣誉奖项</span></div>
